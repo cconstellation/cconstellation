@@ -4,4 +4,4 @@
             <br><br> - It's really fun to reverse what people have made. </em>
         </center>
 <h1 align="center"></h1>
-<img style="margin-left: 45px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enori-k&layout=compact&theme=bear" />
+<img style="margin-left: 45px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrayee&layout=compact&theme=bear" />
