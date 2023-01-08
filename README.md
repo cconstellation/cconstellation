@@ -3,11 +3,6 @@
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=arrayee&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/arrayee)
 
-<p align="center">
-<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
-</p>
-
-
 <h2 align="center">Programming Languages, I mainly use</h2>
 <p align="center">
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a> 
