@@ -1,6 +1,9 @@
 <h2 align="center">
 <p align="center">
   
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=arrayee&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrayee&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB"/>
+  
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=arrayee&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/arrayee)
 
 <h2 align="center">Programming Languages, I mainly use</h2>
