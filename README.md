@@ -1,6 +1,6 @@
 <h3 align="center">Reverse Engineer, i like doing opposite of software engineer.</h3>
 
-# Languages, Including Learning
+## Languages, Including Learning
 * Lua
 * Python
 * C++
