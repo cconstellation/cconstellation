@@ -13,5 +13,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrayee&show_icons=true&locale=en&layout=compact" alt="arrayee" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arrayee&show_icons=true&locale=en" alt="arrayee" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrayee&" alt="arrayee" /></p>
