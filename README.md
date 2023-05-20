@@ -9,4 +9,4 @@
 * Java
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mengdeveloper&show_icons=true&locale=en&layout=merko" alt="arrayee" /></p>
+![meng's GitHub stats](https://github-readme-stats.vercel.app/api?username=meng&theme=nightowl&show_icons=true)
