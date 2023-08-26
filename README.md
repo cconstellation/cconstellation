@@ -1,9 +1,13 @@
-## Me
+## Age
 
 > 16 years old.
 
+## Class
+
 > 11th Grade.
 
-> Professional Language: `LUa`
+## Programming Languages
 
-> Learning Language: `C++` `Python` `Java`
+> Professional Language: `LUa`.
+
+> Learning Language: `C++` `Python` `Java`.
