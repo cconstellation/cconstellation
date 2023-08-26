@@ -1,6 +1,6 @@
 ## Discord
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<650336912900358164>)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:650336912900358164)](https://discord.com/users/:650336912900358164)
 
 ## Age
 
