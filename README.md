@@ -12,6 +12,6 @@
 
 ## Programming Languages
 
-> Professional Language: `LUa`.
+> Professional Language: `Lua`.
 
 > Learning Language: `C++` `Python` `Java`.
