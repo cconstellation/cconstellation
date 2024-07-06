@@ -4,4 +4,4 @@
 
 > Learning Language: `C++` `Python` `Java`.
 
-![Kdouy's Github Stats](https://github-readme-stats.vercel.app/api?username=kdouy&show_icons=true&theme=tokyonight)
+![Kdouy's Github Stats](https://github-readme-stats.vercel.app/api?username=kdouy&show_icons=true&theme=tokyonight&hide_border=true)
