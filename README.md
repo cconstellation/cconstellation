@@ -4,4 +4,4 @@
 
 > Learning Language: `C++` `Python` `Java`.
 
-<img src="https://github-readme-stats.vercel.app/api?username=kdouy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"> 
+![Kdouy's Github Stats](https://github-readme-stats.vercel.app/api?username=kdouy&show_icons=true&theme=radical)
