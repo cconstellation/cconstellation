@@ -1,6 +1,6 @@
 # Hi, I'm Kdouy! 👋
 
-<h3 align="left">I hate frontend.</h3>
+<h3 align="left">FUCK ROBLOX GOT MY DISCORD TERMED</h3>
 
 <h3>Connect with me:</h3>
 <p>
