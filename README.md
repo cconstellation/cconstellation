@@ -1,6 +1,6 @@
 # Hi, I'm Vault! 👋
 
-<h3 align="left">FUCK ROBLOX GOT MY DISCORD TERMED</h3>
+<h3 align="left">🙌</h3>
 
 <h3>Connect with me:</h3>
 <p>
