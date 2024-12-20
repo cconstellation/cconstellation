@@ -1,6 +1,4 @@
-# Hi, I'm Vault! 👋
-
-<h3 align="left">🙌</h3>
+# Hi, I'm Vault/cconstellation! 👋
 
 <h3>Connect with me:</h3>
 <p>
