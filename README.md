@@ -1,6 +1,6 @@
-# Hi, I'm Vault/cconstellation! 👋
+# Hi, I'm Vault! 👋
 
-<h3>Connect with me:</h3>
+<h3>Discord:</h3>
 <p>
   <a href="https://discord.com/users/579647270652215300" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" height="40" width="40" />
